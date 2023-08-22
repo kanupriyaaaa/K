@@ -1,2 +1,2 @@
-# compling
-computational linguistics projects 
+# kanupriyaaaa
+projects 
